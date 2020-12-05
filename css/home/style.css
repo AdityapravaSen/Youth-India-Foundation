@@ -716,3 +716,25 @@ hr {
 #social-em:hover {
   color: #f39c12;
 }
+
+.highlights_color{
+  background-color: #F5B461;
+  margin:0px;
+  bottom:0px ;
+  padding:0px;
+  top:0px;
+}
+.state-team-col{
+  background-color: #8BCDCD;
+  margin:0px;
+  bottom:0px ;
+  padding:0px;
+  top:0px;
+}
+.about_us_col{
+  background-color:#b8de6f ;
+  margin:0px;
+  bottom:0px ;
+  padding:0px;
+  top:0px;
+}
